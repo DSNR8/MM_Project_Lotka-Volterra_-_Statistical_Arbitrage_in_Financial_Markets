@@ -1,0 +1,2 @@
+# MM_Project_Lotka-Volterra_-_Statistical_Arbitrage_in_Financial_Markets
+Academic project in Mathematical Modeling 
