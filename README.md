@@ -49,6 +49,8 @@ The strategy is evaluated using Walk-Forward (Rolling Window) Out-of-Sample vali
 2. Simple Pairs Trading (KO vs PEP)
 3. Factor-Neutral Strategy (Market Isolated)
 
+Note: The Lotka–Volterra parameter estimation is performed in-sample for interpretability, not for predictive evaluation.
+
 ## Limitations
 * Linear approximation of complex nonlinear market dynamics.
 * Static thresholds ($Z = \pm 2$) for trading signals.
